@@ -32,6 +32,11 @@
 }
 
 /*-------------text---------------*/
+.m-text{
+    font-weight: 300 !important;
+    letter-spacing:1px !important;
+    line-height: 1.8;
+}
 .m-text-thin{
     font-weight: 300 !important;
 }
@@ -48,4 +53,9 @@
 /***** display *****/
 .m-inline-block{
     display: inline-block !important;
+}
+
+.m-container{
+    max-width: 72em !important;
+    margin: auto !important;
 }

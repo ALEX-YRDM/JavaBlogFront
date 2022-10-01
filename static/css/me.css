@@ -70,7 +70,7 @@ body{
     display: inline-block !important;
 }
 .m-container-default{
-    max-width: 80% !important;
+    max-width: 75% !important;
     margin: auto !important;
 }
 .m-container-small{

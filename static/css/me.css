@@ -69,7 +69,10 @@ body{
 .m-inline-block{
     display: inline-block !important;
 }
-
+.m-container-default{
+    max-width: 80% !important;
+    margin: auto !important;
+}
 .m-container-small{
     max-width: 60em !important;
     margin: auto !important;

@@ -3,8 +3,23 @@ body{
     background: url("../images/leaves.png");
 }
 
-
-
+.m-padded-mini{
+    padding: 0.2em !important;
+}
+.m-padded-tiny{
+    padding: 0.3em !important;
+}
+.m-padded{
+    padding: 1em !important;
+}
+.m-fixed{
+    position: fixed !important;
+    z-index: 10 !important;
+}
+.m-right-bottom{
+    bottom: 0 !important;
+    right: 0 !important;
+}
 
 .m-padded-tb-mini{
     padding-top: 0.2em !important;
